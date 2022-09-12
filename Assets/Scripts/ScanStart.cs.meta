@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 88210f37e3e9c604ba2e7566f7ed3cbe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ardevice: {instanceID: 0}
+  - background: {instanceID: 0}
+  - fit: {instanceID: 0}
+  - imgRec: {instanceID: 0}
+  - text: {instanceID: 0}
+  - scanOverlay: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
