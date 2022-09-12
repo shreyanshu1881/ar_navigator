@@ -1,2 +1,4 @@
-# IndoorNavigation
-This repo contains the project I made during my month of internship at Craftworkz. This is a prototype and not clean code.
+#INNOVATION PROJECT IndoorNavigation
+Open project in unity version 2019.3.0a10
+
+
